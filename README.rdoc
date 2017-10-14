@@ -2,3 +2,4 @@ gatherer: code for Rails 4 Test Prescrptions by Noel Rappin
 
 Helpful Links
 1. https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers
+2. http://www.rubydoc.info/gems/rspec-expectations/RSpec/Matchers

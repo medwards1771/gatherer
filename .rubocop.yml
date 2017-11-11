@@ -1,0 +1,13 @@
+AllCops:
+  Exclude:
+    - db/schema.rb
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+
+Documentation:
+  Enabled: false
+
+Style/AsciiComments:
+  Enabled: false
